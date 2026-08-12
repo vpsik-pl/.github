@@ -1,15 +1,16 @@
+
 ## vpsik.pl
 
-A new project is taking shape behind the scenes.
+A new project is taking shape behind the scenes.<br><br>
 
-Infrastructure is being built.
-Systems are being tested.
-Pieces are slowly falling into place.
+Infrastructure is being built..<br>
+Systems are being tested..<br>
+Pieces are slowly falling into place...<br><br>
 
-You might notice the domain.
-You might see repositories appearing.
-You might even find something that wasn't supposed to be found yet.
+You might notice the domain..<br>
+You might see repositories appearing..<br>
+You might even find something that wasn't supposed to be found yet...<br><br>
 
-That's okay.
+That's okay..<br>.<br>
 
-We're getting closer.
+We're getting closer..<br>
