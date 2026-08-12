@@ -1,6 +1,25 @@
 
 ## vpsik.pl
+```text
+┌──────────────────────────────────────────────────────────────┐
+│                                                              │
+│                         vpsik.pl                             │
+│                                                              │
+│                    INITIALIZING...                           │
+│                                                              │
+├──────────────────────────────────────────────────────────────┤
+│                                                              │
+│  [████████████████████░░░░░░░░]  68%                         │
+│                                                              │
+│  > infrastructure        ............ ONLINE                 │
+│  > core systems          ............ INITIALIZING           │
+│  > services              ............ LOADING                │
+│  > public release       ............ PENDING                 │
+│                                                              │
+└──────────────────────────────────────────────────────────────┘
+```
 
+### `// SYSTEM MESSAGE`
 A new project is taking shape behind the scenes.<br><br>
 
 Infrastructure is being built..<br>
